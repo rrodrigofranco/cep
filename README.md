@@ -17,7 +17,11 @@ Nesse projeto usei HTML, CSS, PHP, Javascript e Bootstrap.
 
 O resultado final do site pode ser conferido clicando [aqui](https://rrodrigofranco.000webhostapp.com/).
 
+![Design preview for the ZipCode theme](./img/zipcode.png)
+
 Obs.: O banco de dados equivalente a esse projeto está no arquivo cep.zip.
+
+
 
 ## :telephone: Contato
 
