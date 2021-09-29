@@ -13,7 +13,7 @@
 
 Repositório do projeto de um site que tem objetivo de procurar um endereço através do CEP.
 
-Nesse projeto usei HTML, CSS, PHP, Javascript e Bootstrap.
+Nesse projeto usei HTML, CSS, PHP, Javascript, Bootstrap e mysql.
 
 O resultado final do site pode ser conferido clicando [aqui](https://rrodrigofranco.000webhostapp.com/).
 
