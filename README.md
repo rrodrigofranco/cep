@@ -12,7 +12,7 @@
 ## 💻 Resumo
 
 Repositório do projeto que basicamente procura pelo cep desejado e retorna o endereço equivalente ao cep. Nesse projeto usei HTML, CSS, PHP, Javascript e Bootstrap.
-
+Obs.: O banco de dados equivalente a esse projeto está no arquivo cep.rar.
 
 ## :telephone: Contato
 
