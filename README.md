@@ -11,7 +11,7 @@
 
 ## 💻 Resumo
 
-Repositório do projeto que basicamente procura pelo cep desejado e retorna o endereço equivalente ao cep. 
+Repositório do projeto de um site que tem objetivo de procurar o endereço através do CEP.
 
 Nesse projeto usei HTML, CSS, PHP, Javascript e Bootstrap.
 
