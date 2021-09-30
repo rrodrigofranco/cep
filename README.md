@@ -4,12 +4,12 @@
 
 <p align="center">
 <a href="#resumo">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#telephone">Contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#telephone-resumo">Contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-## :resumo: 💻 Resumo
+##💻 Resumo
 
 Repositório do projeto de um site que tem objetivo de procurar um endereço através do CEP.
 
