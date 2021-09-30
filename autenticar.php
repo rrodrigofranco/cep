@@ -1,6 +1,5 @@
 <?php
 	require_once("conexao.php");
-	@session_start();
 
     $cep = $_POST['cep'];
 	$verifica = "sim";
